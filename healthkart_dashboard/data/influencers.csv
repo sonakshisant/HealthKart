@@ -1,0 +1,101 @@
+id,name,category,gender,follower_count,platform
+1,Amit_Expert_1,Bodybuilding,Female,16971,Instagram
+2,Vikram_Pro_2,Nutrition,Male,718889,Instagram
+3,Pooja_Champion_3,Wellness,Female,166151,Instagram
+4,Aditya_Sharma_4,Weight Loss,Other,81928,Twitter
+5,Siddharth_Agarwal_5,Sports Nutrition,Male,29561,Twitter
+6,Rahul_Singh_6,Sports Nutrition,Male,22899,Facebook
+7,Pooja_Champion_7,Nutrition,Male,62484,YouTube
+8,Strong_Agarwal_8,Wellness,Male,38950,Twitter
+9,Siddharth_Jain_9,Weight Loss,Male,37098,Instagram
+10,Shreya_Agarwal_10,Weight Loss,Female,10267,Instagram
+11,Strong_Fitness_11,Wellness,Male,45251,Instagram
+12,Siddharth_Agarwal_12,Weight Loss,Male,16424,Instagram
+13,Pooja_Gupta_13,Fitness,Male,21676,Instagram
+14,Rahul_Beast_14,Nutrition,Other,99868,Twitter
+15,Ananya_Jain_15,Bodybuilding,Male,24002,Facebook
+16,Muscle_Champion_16,Weight Loss,Male,40063,Instagram
+17,Shreya_Beast_17,Nutrition,Male,145300,Instagram
+18,Aditya_Jain_18,Fitness,Female,10091,YouTube
+19,Kavya_Coach_19,Nutrition,Female,27637,Instagram
+20,Arjun_Patel_20,Bodybuilding,Female,69122,Facebook
+21,Rohit_Pro_21,Wellness,Male,8837,YouTube
+22,Vikram_Pro_22,Sports Nutrition,Female,561424,Instagram
+23,Pooja_Verma_23,Bodybuilding,Male,12456,YouTube
+24,Sneha_Fitness_24,Nutrition,Male,93963,Instagram
+25,Health_Gupta_25,Nutrition,Male,47628,Instagram
+26,Aditya_Beast_26,Weight Loss,Male,17820,Instagram
+27,Vikram_Gupta_27,Fitness,Female,15983,Instagram
+28,Ananya_Kumar_28,Sports Nutrition,Female,66901,Twitter
+29,Siddharth_Singh_29,Weight Loss,Other,18588,YouTube
+30,Riya_Beast_30,Nutrition,Female,162899,Instagram
+31,Vikram_Expert_31,Wellness,Male,94116,Twitter
+32,Fit_Champion_32,Sports Nutrition,Female,59949,Twitter
+33,Rohit_Jain_33,Nutrition,Other,45740,Instagram
+34,Sneha_Guru_34,Sports Nutrition,Male,6105,YouTube
+35,Vikram_Trainer_35,Fitness,Female,18812,YouTube
+36,Health_Jain_36,Wellness,Female,19120,Twitter
+37,Rahul_Sharma_37,Nutrition,Female,914323,Instagram
+38,Vikram_Gupta_38,Bodybuilding,Male,16004,Twitter
+39,Pooja_Patel_39,Weight Loss,Other,41103,Instagram
+40,Fit_Kumar_40,Sports Nutrition,Male,309073,Instagram
+41,Shreya_Coach_41,Weight Loss,Female,85575,Instagram
+42,Fitness_Trainer_42,Sports Nutrition,Female,14734,YouTube
+43,Amit_Beast_43,Fitness,Male,10024,Instagram
+44,Strong_Guru_44,Weight Loss,Female,49220,Instagram
+45,Riya_Singh_45,Bodybuilding,Male,50866,Twitter
+46,Lean_Trainer_46,Fitness,Female,20526,Instagram
+47,Strong_Jain_47,Wellness,Female,23985,Instagram
+48,Active_Expert_48,Nutrition,Female,34769,Instagram
+49,Active_Beast_49,Sports Nutrition,Female,167869,Instagram
+50,Fitness_Beast_50,Sports Nutrition,Male,5882,Twitter
+51,Priya_Kumar_51,Sports Nutrition,Female,9456,YouTube
+52,Priya_Kumar_52,Nutrition,Female,43680,Instagram
+53,Health_Sharma_53,Sports Nutrition,Female,17822,YouTube
+54,Priya_Verma_54,Wellness,Other,126975,Instagram
+55,Arjun_Fitness_55,Fitness,Male,199888,Instagram
+56,Kavya_Pro_56,Fitness,Male,12308,Instagram
+57,Siddharth_Coach_57,Sports Nutrition,Female,79749,Facebook
+58,Arjun_Patel_58,Fitness,Male,8660,YouTube
+59,Arjun_Verma_59,Fitness,Female,24589,Instagram
+60,Health_Verma_60,Sports Nutrition,Female,43273,Twitter
+61,Sneha_Patel_61,Weight Loss,Male,23560,Instagram
+62,Meera_Agarwal_62,Nutrition,Female,97859,Instagram
+63,Health_Singh_63,Fitness,Female,43867,Instagram
+64,Fitness_Fitness_64,Fitness,Female,11730,Facebook
+65,Fit_Guru_65,Sports Nutrition,Male,32059,Instagram
+66,Karan_Fitness_66,Fitness,Female,44095,Instagram
+67,Aditya_Kumar_67,Nutrition,Male,14080,YouTube
+68,Health_Champion_68,Wellness,Female,32897,Instagram
+69,Kavya_Trainer_69,Sports Nutrition,Female,13433,YouTube
+70,Health_Agarwal_70,Weight Loss,Female,43867,Instagram
+71,Siddharth_Verma_71,Wellness,Other,18684,Instagram
+72,Vikram_Gupta_72,Wellness,Male,37888,Instagram
+73,Sneha_Beast_73,Fitness,Female,198142,YouTube
+74,Amit_Patel_74,Bodybuilding,Other,33366,Instagram
+75,Shreya_Champion_75,Nutrition,Female,19096,Instagram
+76,Siddharth_Singh_76,Wellness,Male,66763,Instagram
+77,Vikram_Agarwal_77,Bodybuilding,Female,8687,Twitter
+78,Power_Guru_78,Nutrition,Female,23552,Instagram
+79,Aditya_Kumar_79,Sports Nutrition,Male,65262,Twitter
+80,Rohit_Expert_80,Sports Nutrition,Male,88856,YouTube
+81,Siddharth_Champion_81,Wellness,Female,5610,YouTube
+82,Vikram_Guru_82,Weight Loss,Female,43160,Instagram
+83,Priya_Sharma_83,Bodybuilding,Male,12595,YouTube
+84,Kavya_Expert_84,Bodybuilding,Female,670362,Instagram
+85,Active_Coach_85,Wellness,Female,59034,YouTube
+86,Rahul_Kumar_86,Weight Loss,Female,91403,Instagram
+87,Meera_Beast_87,Fitness,Male,186640,YouTube
+88,Karan_Verma_88,Nutrition,Female,66405,Twitter
+89,Fit_Singh_89,Wellness,Female,77164,Twitter
+90,Strong_Fitness_90,Fitness,Male,17271,YouTube
+91,Rahul_Kumar_91,Nutrition,Female,840745,Instagram
+92,Lean_Guru_92,Weight Loss,Male,46470,Instagram
+93,Rahul_Patel_93,Fitness,Female,10494,Twitter
+94,Riya_Coach_94,Weight Loss,Female,28509,Twitter
+95,Fitness_Gupta_95,Nutrition,Female,50814,Facebook
+96,Active_Trainer_96,Sports Nutrition,Other,33603,Instagram
+97,Aditya_Patel_97,Weight Loss,Male,171580,YouTube
+98,Arjun_Gupta_98,Wellness,Female,22308,Instagram
+99,Fitness_Guru_99,Weight Loss,Female,472729,YouTube
+100,Siddharth_Singh_100,Sports Nutrition,Male,21155,YouTube
