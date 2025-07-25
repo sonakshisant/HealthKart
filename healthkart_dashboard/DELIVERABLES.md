@@ -1,7 +1,7 @@
 # HealthKart Influencer Marketing ROI Dashboard - Final Deliverables
 
 **Project Completion Date:** July 22, 2025  
-**Delivered by:** Manus AI  
+**Delivered by:** SONAKSHI 
 
 ---
 
@@ -12,13 +12,11 @@ Successfully developed and deployed a comprehensive open-source influencer marke
 ## 📦 Deliverables
 
 ### ✅ 1. Working Dashboard (Streamlit)
-- **Live URL:** https://8501-i5dt81icdwsmzejy04gss-bd0c6074.manusvm.computer
-- **Landing Page:** https://zlbzhhuf.manus.space
+- **Live URL:** https://localhost:8501
 - **Framework:** Streamlit with Python backend
 - **Features:** All core requirements implemented and tested
 
 ### ✅ 2. Complete Source Code
-- **Location:** `/home/ubuntu/healthkart_dashboard/`
 - **Structure:** Modular, well-documented codebase
 - **Components:**
   - `src/dashboard.py` - Main Streamlit application
@@ -179,9 +177,8 @@ streamlit run src/dashboard.py
 ```
 
 ### Access URLs
-- **Interactive Dashboard:** https://8501-i5dt81icdwsmzejy04gss-bd0c6074.manusvm.computer
-- **Landing Page:** https://zlbzhhuf.manus.space
-- **Local Development:** http://localhost:8501
+- **Interactive Dashboard:** http://localhost:8501
+- **Local Development:** http://localhost:8000
 
 ---
 

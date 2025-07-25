@@ -1,4 +1,8 @@
 import streamlit as st
+
+st.title("HealthKart Dashboard")
+st.write("This is a placeholder for the Streamlit dashboard.")
+import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go

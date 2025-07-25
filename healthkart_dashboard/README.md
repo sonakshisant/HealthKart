@@ -61,31 +61,24 @@ healthkart_dashboard/
 
 ### Installation
 
-1. **Clone the repository**
+1. **Install dependencies**
    ```bash
-   git clone <repository-url>
    cd healthkart_dashboard
-   ```
-
-2. **Install dependencies**
-   ```bash
    pip install streamlit plotly pandas numpy
+   pip install requests
    ```
 
-3. **Generate sample data** (optional)
+2. **Generate sample data** (optional)
    ```bash
    cd src
    python generate_realistic_data.py
    ```
 
-4. **Run the dashboard**
+3. **Run the dashboard**
    ```bash
-   cd src
-   streamlit run dashboard.py
+   cd.. healthkart_dashboard
+   python run_all.py
    ```
-
-5. **Access the dashboard**
-   Open your browser and navigate to `http://localhost:8501`
 
 ## 📊 Data Models
 
