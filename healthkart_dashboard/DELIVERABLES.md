@@ -12,7 +12,7 @@ Successfully developed and deployed a comprehensive open-source influencer marke
 ## 📦 Deliverables
 
 ### ✅ 1. Working Dashboard (Streamlit)
-- **Live URL:** https://localhost:8501
+- **Live URL:** https://localhost:8502
 - **Framework:** Streamlit with Python backend
 - **Features:** All core requirements implemented and tested
 
